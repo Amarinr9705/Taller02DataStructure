@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller02DataStructure.Core", "Taller02DataStructure.Core\Taller02DataStructure.Core.csproj", "{580F8213-34BE-40EC-8D5E-D8F45D16A0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller02DataStructure.Console", "Taller02DataStructure.Console\Taller02DataStructure.Console.csproj", "{CD7EB9F7-5373-4418-8938-957B61718B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580F8213-34BE-40EC-8D5E-D8F45D16A0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580F8213-34BE-40EC-8D5E-D8F45D16A0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580F8213-34BE-40EC-8D5E-D8F45D16A0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580F8213-34BE-40EC-8D5E-D8F45D16A0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7EB9F7-5373-4418-8938-957B61718B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7EB9F7-5373-4418-8938-957B61718B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7EB9F7-5373-4418-8938-957B61718B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7EB9F7-5373-4418-8938-957B61718B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC865AD-A8CD-4EF0-9321-C8F1272CA038}
+	EndGlobalSection
+EndGlobal
